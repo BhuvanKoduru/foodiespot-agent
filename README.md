@@ -3,8 +3,8 @@
 # FoodieSpot AI Agent
 
 - This project enables an AI-driven restaurant reservation system. Follow the steps below to set up and run the project.
-- [Notion link](https://www.notion.so/Creating-a-Restaurant-Reservation-Bot-19131cf78e8180e0a169c6727b9a72b0?pvs=4)
-- Please mail me (bckoduru@gmail.com) if you are unable to access the site.
+- [Demo link](https://drive.google.com/file/d/10Y34qgGaS7E-LpUfC8_m_oetmn0_ioj6/view?usp=drive_link)
+- Please mail me (bckoduru@gmail.com) if you are unable to access the video.
 ## Prerequisites
 
 Make sure you have the following installed:
